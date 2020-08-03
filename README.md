@@ -1,7 +1,5 @@
 # Friendly Eats
 
-
-
 This is the source code that accompanies the Firestore Android Codelab:
 https://codelabs.developers.google.com/codelabs/firestore-android
 
@@ -167,10 +165,7 @@ Crash Log:
 2020-08-03 11:29:34.470 4144-4157/? E/memtrack: Couldn't load memtrack module
 ```
 
-If you don't want to do the codelab and would rather view the completed
-sample code, see the Firebase Android Quickstart repository:
-https://github.com/firebase/quickstart-android
+## Github issue Link:
 
-## Build Status
+https://github.com/firebase/firebase-android-sdk/issues/1780
 
-[![Build Status](https://travis-ci.org/firebase/friendlyeats-android.svg?branch=master)](https://travis-ci.org/firebase/friendlyeats-android)
